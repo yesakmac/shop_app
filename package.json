@@ -1,0 +1,22 @@
+{
+  "name": "shop_app",
+  "version": "1.0.0",
+  "description": "App to track shoperations",
+  "main": "index.js",
+  "engines": {
+    "node" : "^0.10.32"
+  },
+  "dependencies": {
+    "mysql": "^2.9.0",
+    "body-parser": "^1.14.0",
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TCCP"
+  ],
+  "author": "Kasey Clark",
+  "license": "ISC"
+}
